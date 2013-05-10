@@ -1,0 +1,33 @@
+<component name="libraryTable">
+  <library name="drivers">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/drivers/jconn3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/drivers/jt400.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/drivers/Jtds.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/drivers/msbase.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/drivers/redbrick.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/drivers/postgresql.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/drivers/TeradataTest.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/drivers/sybjconnect.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/drivers/derbynet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/drivers/derby.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/drivers/db2jnet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/drivers/db2jcc_license_c.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/drivers/ifxjdbc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/drivers/hsqldb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/drivers/hitlicense.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/drivers/hitjdbc400.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/drivers/msutil.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/drivers/ojdbc14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/drivers/db2jcc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/drivers/db2java.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/drivers/db2j.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/drivers/adabasd.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/drivers/mysql-connector-java-5.1.17-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/drivers/sqljdbc4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/drivers/poi-3.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

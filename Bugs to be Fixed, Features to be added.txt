@@ -1,0 +1,40 @@
+SR Softwraes - Smart Database Explorer.
+                                          SR Softwraes - Smart Database Explorer.
+// USE CTRL+ALT+T to get the current time in Notepad++										  
+Updated at 5:32 PM Tuesday, May 15, 2012
+
+Bugs to be fixed
+===========================
+Export table,schema as xml ...this part is too buggy and backdated. this part needs to be modified
+
+
+
+refresh tree view every time a user cliks on a node (table/schema )whatever
+
+improve code stucture in main view class
+improve look and feel 
+
+
+
+
+
+
+Features to be added
+===========================
+add refresh MenuItem when user click on a node
+In QueryEditorPanel add feature that can now Read Write .sql file and .txt file(with query only) ...Make it able to read sql file and copy the sqls to the query editor
+also user can now save executed sqls to a sql/txt file if he wants.. 
+
+<< BIG + VERY IMPORTANT FEATURE + GOALS>>
+
+When user right clicks on the table level node a delete and edit option must be there
+delete option directly deletes the table and edit option will open a Dialog that will edit the existing table's metadata...and NOT DATA
+also table rename option should be there
+this should be database and database version specific
+
+When user right clicks on the Schema Level a Create table option will be there that will able user to create table under the selected schema IF SUFFICIENT PERMISSION EXIST
+
+
+
+
+SR Softwraes - Smart Database Explorer.SR Softwraes - Smart Database Explorer.SR Softwraes - Smart Database Explorer.SR Softwraes - Smart Database Explorer.SR Softwraes - Smart Database Explorer.SR Softwraes - Smart Database Explorer.SR Softwraes - Smart Database Explorer.SR Softwraes - Smart Database Explorer.SR Softwraes - Smart Database Explorer.SR Softwraes - Smart Database Explorer.SR Softwraes - Smart Database Explorer.SR Softwraes - Smart Database Explorer.SR Softwraes - Smart Database Explorer.SR Softwraes - Smart Database Explorer.SR Softwraes - Smart Database Explorer.SR Softwraes - Smart Database Explorer.SR Softwraes - Smart Database Explorer.SR Softwraes - Smart Database Explorer.SR Softwraes - Smart Database Explorer.

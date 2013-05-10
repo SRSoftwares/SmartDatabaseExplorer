@@ -1,0 +1,48 @@
+                              Login Help  
+|===================================================================||                  
+|                     www.srsoftwares.co.nr      smart Database Explorer v.1.2                               |
+|===================================================================|
+
+
+
+Welcome to login help of Smart Database Explorer.
+This login will help you to make a connection to a database.
+
+
+
+Username: username is the name that you provide while installing 
+          your database.if you dont know the name then contact your
+          administrator
+
+
+Password: password is also provided while installing the database.
+          But password may be blank for certain database.If you dont
+          know the password contact your system administrator 
+
+
+Host:     Host refers to a system where database in installed.Generally
+          host is the ip address of the system or the name of the system.
+          But if it is installed in your system then use ip address
+          as 127.0.0.1 or type "localhost". 
+
+Port:     It refers on which port your database is running. Genereally 
+          the default port for available databases are given, Still if 
+          you need to modify your port value just press F2 or double click
+          the field , after editing the field press enter to make it confirm
+
+Instance: Instance field is genereally same as the user name field.You can write the
+          username in this field, but if probelm exist please refer to your system
+          administrator
+
+     
+Database: Select to which database you want to connect.
+
+
+Remember Login: Check it if you want remember the settings of this login
+
+
+For any more query feel free to email me: sanku.sumit@gmai.com
+or visit us at : www.srsoftwares.co.nr
+
+=======================================  ============================================
+        
